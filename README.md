@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Rael Santana
+# 👨🏻‍💻 Rael Santana ☕️
 
 **`Desenvolvedor de Software`**
 
-Olá! Me chamo Rael, tenho 25 anos e sou natural de Aracaju Sergipe.
+Olá! Me chamo Rael, tenho 25 anos e sou natural de Aracaju-SE.
 <br/>
 Sou um entusiasta de tecnologia e estudante dedicado de Análise e Desenvolvimento de Sistemas.
 
